@@ -21,6 +21,7 @@ I write about AI in software development: [blog (EN)](https://zakhargaran.com/en
 - Medium: [medium.com/@3axap](https://medium.com/@3axap)
 - YouTube: [iOS Українською](https://www.youtube.com/@ios_in_ukrainian), Swift and UIKit lessons in Ukrainian
 - DOU: [Гаран Захар](https://dou.ua/users/garan-zahar-1/)
+- Goodreads: [Захар Гаран](https://www.goodreads.com/user/show/79226112)
 
 ---
 
