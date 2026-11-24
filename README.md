@@ -8,6 +8,7 @@ My iPhone app with residents' reviews of apartment buildings by address. Check a
 
 ### Writing
 I write about AI in software development: [blog (EN)](https://zakhargaran.com/en/blog/) · [блог (UA)](https://zakhargaran.com/blog/)
+- [The main bottleneck in the age of AI coding is the pull request](https://zakhargaran.com/en/blog/pull-request-bottleneck-ai-coding/)
 - [How to save AI tokens](https://zakhargaran.com/en/blog/how-to-save-ai-tokens/)
 - [Fable, Opus, Sonnet or Haiku?](https://zakhargaran.com/en/blog/fable-opus-sonnet-or-haiku/)
 - [AI and video editing](https://zakhargaran.com/en/blog/ai-video-editing/)
